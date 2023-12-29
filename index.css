@@ -4,3 +4,10 @@ header{
 body{
     background-color: rgb(105, 105, 105);
 }
+.main{
+    font-family: monospace;
+    color: white;
+}
+#logo{
+    padding: 5px, 5px, 5px, 5px;
+}
